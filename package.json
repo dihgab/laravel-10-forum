@@ -20,5 +20,18 @@
         "vue-template-compiler": "^2.7.14",
         "webpack": "^5.88.2",
         "webpack-cli": "^5.1.4"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.2",
+        "jquery": "^3.7.1",
+        "laravel-echo": "^1.15.3",
+        "moment": "^2.29.4",
+        "popper.js": "^1.16.1",
+        "pusher-js": "^8.3.0",
+        "socket.io-client": "^4.7.2",
+        "vue": "^3.3.4",
+        "vue-quill-editor": "^3.0.6",
+        "vue-router": "^4.2.5",
+        "vue-simple-spinner": "^1.2.10"
     }
 }
